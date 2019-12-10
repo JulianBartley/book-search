@@ -1,0 +1,39 @@
+body{
+  font-family: Arial;
+  background: lightgray;
+  margin: 0;
+}
+
+h1{
+  font-size: 100px;
+  color: blue;
+
+}
+
+.grid{
+  position: absolute;
+  right: 20%;
+}
+
+.search-bar{
+  position: absolute;
+  left: 22.7%;
+}
+
+/* .book-result{
+  position: absolute;
+  left: 30%;
+  top: 20%;
+} */
+
+input {
+    width: 500px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.search-bar2{
+  position: absolute;
+  top: 10%;
+  left: 22.7%;
+}
